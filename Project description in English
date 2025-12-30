@@ -1,0 +1,82 @@
+Source curation | SQL | Data Storytelling | Flashcards, Slides, and Mind Maps | NotebookLM
+
+Data Analysis with SQL and Data Storytelling
+BOOTCAMP PROJECT CHALLENGE RESULTS: BRADESCO: GENAI and DATA (Accelerate Your Learning with AI: Explore the Power of NotebookLM)
+
+This repository documents an authorial study conducted with the support of NotebookLM, in which I actively participated in source curation (including technical books), defining the study methodology, and requesting educational artifacts such as flashcards, slides, and mind maps to consolidate learning.
+
+The focus of the study is to understand how Data Analysis with SQL, combined with Data Storytelling, directly impacts the way analytical results are understood and used in decision-making.
+
+🔗 NotebookLM used in the study:
+https://notebooklm.google.com/notebook/95ee5d82-6eec-4ae0-ab0d-0466f5c28219
+
+🎯 Study Objective
+
+Analyze the role of SQL in generating analytical insights.
+Investigate how storytelling influences the presentation and interpretation of data.
+Demonstrate that effective analysis goes beyond technical execution.
+Consolidate learning through multiple educational formats.
+🛠️ Tools and Technologies
+
+SQL – queries, analysis, and insight extraction.
+NotebookLM – source analysis, knowledge synthesis, and study material generation
+Markdown – structured documentation
+GitHub – versioning and technical portfolio
+📚 Source Curation
+
+I curated the sources manually, prioritizing technical and reliable content, including:
+
+Books on data analysis and visualization
+Materials on SQL and data-driven decision making
+Content on storytelling applied to data
+Book: Storytelling with Data; Advanced Database / Simone Cristina Aléssio. Indaial: UNIASSELVI, 2015 -Handbook: Introduction to SQL by Prof. Edberto Ferneda and Introduction to SQL by Jair Daum Franceschin.
+The selected sources were uploaded to NotebookLM for cross-analysis, synthesis, and extraction of key concepts.
+
+🧠 Study Methodology
+
+Active curation of sources (books, articles, and technical materials)
+Organization and upload of sources to NotebookLM
+Definition of guiding questions for the study
+Generation of flashcards for memorizing concepts
+Creation of slides to structure the narrative
+Development of mind maps for a systemic view
+Consolidation of learning in technical documentation
+❓ Key Questions
+
+Why do correct results in SQL not always lead to effective decisions?
+How can raw data be transformed into understandable narratives?
+What is the impact of storytelling on the presentation of analyses?
+How can communication be adapted for technical and non-technical audiences?
+📌 Key Study Points
+
+SQL answers questions, storytelling generates understanding SQL is essential for obtaining reliable data, but it is storytelling that connects the results to the context and real impact.
+
+Narrative guides the audience's attention The way data is presented directly influences interpretation and decision-making.
+
+Learning is strengthened with multiple formats Flashcards, slides, and mind maps accelerate the assimilation and retention of technical knowledge.
+
+Data analysis requires technical and communication skills The data analyst acts as a bridge between data, technology, and business.
+
+🚀 Practical Applications
+
+Presentation of SQL analysis results
+Analytical and executive reports
+Construction of dashboards and presentations
+Technical and educational studies in data
+📈 Connection with Software Engineering
+
+Use of SQL as a central analysis tool
+Organization and documentation of knowledge
+Analytical thinking applied to problem solving
+Design of study materials as part of technical learning
+Does not replace human review, but optimizes the process.
+👩‍💻 Author
+
+Mahya Santos Santana
+Software Engineering Student, Geography Teacher.
+Interests: Data Analysis, SQL, Data Storytelling, Software Engineering, and knowledge-driven learning.
+
+🧠 Final Consideration
+
+This study demonstrates that data analysis does not end with SQL queries. The presentation of results changes everything; there is no point in being technical and unable to communicate insights clearly and strategically, 
+whether in a formal or informal presentation. In addition to technical competence, we need to work on building narratives for assertive communication that leads to decision-making.
